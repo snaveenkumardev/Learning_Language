@@ -6,6 +6,6 @@
 // After Compilation execute the "helloworld.exe" executable file command: /helloworld.exe
 
 int main() {
-    NSLog(@"Hello World!");
+    NSLog(@"Hello World");
     return 0;
 }
