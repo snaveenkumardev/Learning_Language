@@ -1,2 +1,2 @@
 # Learning_Language
-I am practicing the new learned programming languauge in this Repo.
+I practice the new learning programming language in this Repo.
